@@ -1,1 +1,2 @@
 Mezzanine==4.3.1
+django>=5.0.14 # not directly required, pinned by Snyk to avoid a vulnerability
